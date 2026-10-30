@@ -2,5 +2,5 @@
 
 | Course | Platform | Year | Certificate |
 |--------|----------|------|-------------|
-| Introduction to AI | Coursera | 2026 | [View](./Introduction-to-AI.pdf) |
+| Introduction to AI | Coursera | 2026 | [View](./coursera-Introduction-to-AI-2026.pdf) | 
 
